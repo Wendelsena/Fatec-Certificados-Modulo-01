@@ -1,4 +1,5 @@
-## My certificates
+
+<h1 align="right">My certificates</h1>
 
 <div>
   <h4>Introduction to Git and version control</h4>
