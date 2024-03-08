@@ -1,6 +1,8 @@
-#My certificates
+My certificates
 <div>
-  <img src="GitP1Certificado_page-0001.jpg">
+  <img width="400" src="GitP1Certificado_page-0001.jpg">
+  <img width="400" src="GitP1Certificado_page-0001.jpg">
+  <img width="400" src="GitP1Certificado_page-0001.jpg">
 </div>
 
 
