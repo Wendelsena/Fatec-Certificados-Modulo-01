@@ -17,7 +17,7 @@
 ##
 
 <div>
-  <h4>FIgma: Creating Interfaces from Scratch to Final Prototype</h4>
+  <h4>Figma - Creating Interfaces from Scratch to Final Prototype</h4>
   <img width="400" src="FigmaCertificado_page-0001.jpg">
 </div>
 
